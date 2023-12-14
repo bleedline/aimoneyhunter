@@ -70,3 +70,32 @@
 ## ai脚本视频赚钱
 ### 图片绘本故事
 - 使用AI技术重新绘制三国连环画，轻松赚取收益！ https://17yongai.com/12163.html
+- 1分钟教你利用ChatGPT+Midjourney做小红书！月入2w+! https://17yongai.com/11464.html
+- 人工智能AI助你月入万刀！制作儿童动画视频，轻松实现短视频赚钱和创业梦想！ https://17yongai.com/11533.html
+- 在家轻松搬砖赚钱，全程AI操作，手把手教你如何制作民间故事视频赚取丰厚收益！ https://17yongai.com/11525.html
+### 虚拟人口播
+- 免费AI口播工具推荐！数字人本地部署教程 https://17yongai.com/12155.html
+- 免费生成AI数字人！完美应对你的智能化需求！副业方向推荐！ https://17yongai.com/11657.html
+- ChatGPT与AI数字人联手，普通人也能轻松实现财富增长！ https://17yongai.com/11457.html
+- ChatGPT助力AI数字人，开启自媒体财富新时代！普通人也能轻松产出爆款数字人视频，让财富滚滚而来！ https://17yongai.com/11455.html
+### 小说漫画推文
+- 揭秘！小说秒变漫画，你绝对想不到的震撼效果！ https://17yongai.com/11423.html
+- 【免费教程】如何用AI快速制作小说漫画？一天2970，轻松副业！ https://17yongai.com/11549.html
+- 在家也能轻松赚钱！全程AI操作，将视频“动漫化”创造收益！快来学习这个简单方法吧！ https://17yongai.com/11517.html
+- 【新玩法揭秘】如何使用AI工具赚取小说漫画创作的收入？ https://17yongai.com/11543.html
+### 电影剧情解说
+- 【AI副业赚钱】用ChatGPT兼职做电影解说，三天涨粉100000！！！ https://17yongai.com/11617.html
+- 用AI生成电影解说视频，半年狂赚43W！只要找对方法，其实富起来也就这两年！ https://17yongai.com/11622.html
+- 通过ChatGPT写电影解说赚钱，每天加菜准备长胖！ https://17yongai.com/11624.html
+- AI快速制作电影解说视频，三天收获3700！操作简单，分享详细实操教程！ https://17yongai.com/11626.html
+### 热点选题技巧
+- 用AI做短视频简直太赚了，AI赚钱新玩法！！！ https://17yongai.com/11459.html
+- 【AI自媒体】黑暗心理学：如何在抖音赚钱变现？ https://17yongai.com/11538.html
+- AI头条玩法！搬砖变现超简单！ https://17yongai.com/11439.html
+- 想要月入万刀？试试人工智能AI制作病毒式励志视频吧！跟随ChatGPT教程，轻松开启短视频赚钱和创业之旅，实现你的财富梦想！ https://17yongai.com/11529.html
+##  视频变幻赚钱
+### 瞬息全宇宙
+- 科技感转场，酷炫动画插件，简简单单马上学会做爆点视频！ https://17yongai.com/11474.html
+- 【教程】AI绘画生成视频变动画，瞬息全宇宙教你如何操作！ https://17yongai.com/11552.html
+- MJ无限穿越效果教程来啦！涨粉率奇高的一个视频效果技巧！ https://17yongai.com/11477.html
+- 【AI自媒体】瞬息全宇宙动画制作秘笈，快来学习！ https://17yongai.com/11555.html
