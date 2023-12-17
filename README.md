@@ -56,6 +56,12 @@
 一起用AI
 ```
 
+# 一起用AI
+AI副业相关信息或合作，可关注Twitter:
+[![Twitter Follow](https://img.shields.io/twitter/follow/heroooooh?style=social)](https://twitter.com/heroooooh)
+
+目前正在将网络上各类博主介绍的AI副业技巧逐一尝试&探索，期望能为大家做更有价值的筛选。
+内容也会同步更新至网站(https://17yongai.com) 中，敬请关注。
 
 # 如何开始副业最稳妥
 
@@ -240,9 +246,9 @@
 - 一张图片就能虚拟直播！这个门槛确定不来看看吗？ https://17yongai.com/11790.html
 - 【虚拟人项目】开源聊天虚拟人项目！最有搞头的项目！ https://17yongai.com/11781.html
 
-# 一起用AI
-AI副业相关信息或合作，可关注Twitter:
-[![Twitter Follow](https://img.shields.io/twitter/follow/heroooooh?style=social)](https://twitter.com/heroooooh)
+# 项目历史
 
-目前正在将网络上各类博主介绍的AI副业技巧逐一尝试&探索，期望能为大家做更有价值的筛选。
-内容也会同步更新至网站(https://17yongai.com) 中，敬请关注。
+该项目于2023/12/17日登陆Github Trending （12k），承蒙大家喜爱。
+和其他开源项目相比，信息聚合不值一提，也是诚惶诚恐，只期望能对一些人有所帮助。
+
+[![Star History Chart](https://api.star-history.com/svg?repos=bleedline/aimoneyhunter&type=Date)](https://star-history.com/#bleedline/aimoneyhunter&Date)
