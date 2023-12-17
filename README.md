@@ -248,7 +248,7 @@ AI副业相关信息或合作，可关注Twitter:
 
 # 项目历史
 
-该项目于2023/12/17日登陆Github Trending （12k），承蒙大家喜爱。
+该项目于2023/12/17日登陆Github Trending （1.2k stars），承蒙大家喜爱。
 和其他开源项目相比，信息聚合不值一提，也是诚惶诚恐，只期望能对一些人有所帮助。
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bleedline/aimoneyhunter&type=Date)](https://star-history.com/#bleedline/aimoneyhunter&Date)
