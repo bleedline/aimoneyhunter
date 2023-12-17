@@ -245,4 +245,4 @@ AI副业相关信息或合作，可关注Twitter:
 [![Twitter Follow](https://img.shields.io/twitter/follow/heroooooh?style=social)](https://twitter.com/heroooooh)
 
 目前正在将网络上各类博主介绍的AI副业技巧逐一尝试&探索，期望能为大家做更有价值的筛选。
-内容也会同步更新至网站(https://17yongai.com)中，敬请关注。
+内容也会同步更新至网站(https://17yongai.com) 中，敬请关注。
