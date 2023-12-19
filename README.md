@@ -2,7 +2,7 @@
 AiMonneyHunter
 </h1>
 <p align="center">
-  <a href="https://github.com/bleedline/aimoneyhunter">English</a> | <a href="https://github.com/bleedline/aimoneyhunter/edit/main/README_en.md">简体中文</a>
+  <a href="https://github.com/bleedline/aimoneyhunter">简体中文</a> | <a href="https://github.com/bleedline/aimoneyhunter/edit/main/README_en.md">English</a>
 </p>
 
 # 贡献方式
