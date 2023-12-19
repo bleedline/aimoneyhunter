@@ -1,4 +1,8 @@
 <p align="center">
+  <h1>AiMonneyHunter</h1>
+</p>
+
+<p align="center">
   <a href="https://github.com/bleedline/aimoneyhunter">English</a> | <a href="https://github.com/bleedline/aimoneyhunter/edit/main/README_en.md">简体中文</a>
 </p>
 
