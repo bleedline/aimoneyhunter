@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/bleedline/aimoneyhunter">English</a> | <a href="https://github.com/bleedline/aimoneyhunter/edit/main/README_en.md">简体中文</a>
+</p>
+# 贡献方式
+目前项目接受使用AI赚钱的案例贡献，包括但不限于，文章，网站，博客，推文，公众号，可以加入你们的链接🔗
 # AI副业赚钱资讯合集
 这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。
 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
