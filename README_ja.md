@@ -59,7 +59,7 @@ AI と一緒に
 AI サイドビジネスに関連する情報やコラボレーションについては、X をフォローしてください:
 [![Twitter Follow](https://img.shields.io/twitter/follow/heroooooh?style=social)](https://twitter.com/heroooooh)
 
-私たちは現在、インターネット上で様々なブロガーが紹介しているAIサイドビジネス手法を試行錯誤しています。内容はウェブサイト（https://17yongai.com）でも更新されますので、ご期待ください。
+私たちは現在、インターネット上で様々なブロガーが紹介しているAIサイドビジネス手法を試行錯誤しています。内容はウェブサイト (https://17yongai.com) でも更新されますので、ご期待ください。
 
 # 安全に副業を始めるには
 
