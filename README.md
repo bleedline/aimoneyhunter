@@ -19,7 +19,7 @@ AiMonneyHunter
 
 社群还包括36节办公提效AI课，199元的社群门票👇🏻扫码查看
 
-![二维码](/AD.png)
+[![二维码](/AD.png)](https://ke.study.163.com/topic/study/AIHHsqk.html?outVendor=daohang_17yongai_17yongai_github)
 
 # 目录
 - [关于合集](#关于合集)
