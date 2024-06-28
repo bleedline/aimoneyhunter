@@ -17,7 +17,7 @@ AiMonneyHunter
 # 【广告】AI副业社群
 如果你对AI做副业不是太了解，推荐加入网易云课堂主办的这个AI副业社群。
 
-社群还包括36节办公提效AI课，199元的社群门票👇🏻扫码查看
+社群还包括36节办公提效AI课，199元的社群门票👇🏻扫码查看，或点击跳转
 
 [![二维码](/AD.png)](https://ke.study.163.com/topic/study/AIHHsqk.html?outVendor=daohang_17yongai_17yongai_github)
 
