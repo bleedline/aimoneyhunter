@@ -17,7 +17,7 @@ AiMonneyHunter
 # 【AI信息推荐】
 精心整理AI相关优质信息源，包含机器之心、出门问问CEO李志飞、晚点LatePost、硅星人等，可以一键导入在松鼠快看中关注（请PC端点开链接）
 <a href="https://songshukuaikan.com/group/share/YyVdukmtoRDWtdfL7gVgCQ">点击进入查看</a>
-<![描述文字](songshu.jpg)
+![描述文字](songshu.jpg)
 
 # 目录
 - [关于合集](#关于合集)
@@ -259,6 +259,10 @@ AiMonneyHunter
 - 【AI直播】数字人生成项目！直播必备技能！ https://17yongai.com/11785.html
 - 一张图片就能虚拟直播！这个门槛确定不来看看吗？ https://17yongai.com/11790.html
 - 【虚拟人项目】开源聊天虚拟人项目！最有搞头的项目！ https://17yongai.com/11781.html
+
+# AI副业星球
+加入一起用AI，副业赚钱社群，教你用AI做副业搞钱~
+![描述文字](group.jpg)
 
 # 项目历史
 
