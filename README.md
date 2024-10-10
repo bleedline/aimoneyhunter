@@ -262,7 +262,7 @@ AiMonneyHunter
 
 # AI副业星球
 加入一起用AI，副业赚钱社群，教你用AI做副业搞钱~
-![描述文字](group.jpg)
+![描述文字](newgroup.jpg)
 
 # 项目历史
 
