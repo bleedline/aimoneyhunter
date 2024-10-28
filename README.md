@@ -1,5 +1,5 @@
 <h1 align="center">
-AiMonneyHunter
+AiMoneyHunter
 </h1>
 <p align="center">
   <a href="https://github.com/bleedline/aimoneyhunter">简体中文</a> | <a href="https://github.com/bleedline/aimoneyhunter/blob/main/README_en.md">English</a> | <a href="https://github.com/bleedline/aimoneyhunter/blob/main/README_ja.md">日本語</a>
