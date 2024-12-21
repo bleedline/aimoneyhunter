@@ -19,9 +19,11 @@ AiMonneyHunter
 
 多种AI副业信息分享，在AI时代信息平权，互联网零成本线上获客，抹平赚钱信息差
 
-社群还有培训营可以参加，进一步参与副业赚钱项目实训👇🏻
+社群还有培训营可以参加，进一步参与副业赚钱项目实训
 
-![加入流量变现](./group.jpg)
+<a href="https://www.yetu02.com/ba/trafficmoney?share=cong-rong-de-hua-ban">点击加入</a>，或者扫描下方二维码👇🏻
+
+<img src="./group.jpg" width="500" alt="项目展示图">
 
 
 # 目录
