@@ -14,10 +14,9 @@ AiMonneyHunter
 这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。
 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
 
-# 【AI信息推荐】
-精心整理AI相关优质信息源，包含机器之心、出门问问CEO李志飞、晚点LatePost、硅星人等，可以一键导入在松鼠快看中关注（请PC端点开链接）
-<a href="https://songshukuaikan.com/group/share/YyVdukmtoRDWtdfL7gVgCQ">点击进入查看</a>
-![描述文字](songshu.jpg)
+# 【AI副业社群】
+加入AI副业社群，利用AI构建媒体内容，获取流量进行变现👇🏻
+
 
 # 目录
 - [关于合集](#关于合集)
@@ -259,10 +258,6 @@ AiMonneyHunter
 - 【AI直播】数字人生成项目！直播必备技能！ https://17yongai.com/11785.html
 - 一张图片就能虚拟直播！这个门槛确定不来看看吗？ https://17yongai.com/11790.html
 - 【虚拟人项目】开源聊天虚拟人项目！最有搞头的项目！ https://17yongai.com/11781.html
-
-# AI副业星球
-加入一起用AI，副业赚钱社群，教你用AI做副业搞钱~
-![描述文字](newgroup.jpg)
 
 # 项目历史
 
