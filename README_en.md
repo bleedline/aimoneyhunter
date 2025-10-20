@@ -1,9 +1,9 @@
 <h1 align="center">
-AiMonneyHunter
-</h1>
-<p align="center">
-  简体中文 | English | 日本語
-</p>
+  AiMonneyHunter
+  </h1>
+  <p align="center">
+    <a href="README.md">简体中文</a> | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
+  </p>
 
 # About This Repository
 
